@@ -1,0 +1,10 @@
+.main {
+    background-color: #FFFFFF;
+}
+.main .left {
+    display: inline-block;
+}
+
+.main .right {
+    display: inline-block;
+}
