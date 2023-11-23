@@ -5,8 +5,9 @@
 
 .heroarea {
     background-color: #1F98F0;
-    border: 2px solid red;
-    max-width: 1600px;
+    padding-bottom: 35px;
+    /* border: 2px solid red; */
+    /* max-width: 1600px; */
 }
 
 .container {
@@ -14,11 +15,11 @@
 }
 
 .heroarea .promo-left {
-    /* border: 2px solid red; */
-}
-
-.heroarea .promo-left {
-    width: 500px;;
+    margin-top: 232px;
+    margin-right: 9px;
+    width: 500px;
+    display: inline-block;
+    vertical-align: top;
 }
 
 .heroarea h1 {
@@ -38,4 +39,11 @@
 
 .heroarea p + img {
     margin-right: 10px;
+}
+
+.heroarea .promo-right{
+    display: inline-block;
+    margin-top: 80px;
+    width: 679px;
+    height: 784px;
 }
