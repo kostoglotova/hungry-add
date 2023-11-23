@@ -1,0 +1,41 @@
+.heroarea .container {
+    margin: 0 auto;
+    box-sizing: border-box;
+}
+
+.heroarea {
+    background-color: #1F98F0;
+    border: 2px solid red;
+    max-width: 1600px;
+}
+
+.container {
+    max-width: 1200px;
+}
+
+.heroarea .promo-left {
+    /* border: 2px solid red; */
+}
+
+.heroarea .promo-left {
+    width: 500px;;
+}
+
+.heroarea h1 {
+    color: #fff;
+    font-family: 'Work sans';
+    font-size: 51px;
+    margin-bottom: 30px;
+    line-height: 66.3px;
+}
+
+.heroarea p {
+    color: #fff;
+    font-size: 20px;
+    line-height: 30px;
+    margin-bottom: 50px;
+}
+
+.heroarea p + img {
+    margin-right: 10px;
+}
