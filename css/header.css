@@ -11,8 +11,6 @@ header p {
   color: #fff;
 }
 
-
-
 header ul {
   display: inline-block;
 }
@@ -30,7 +28,6 @@ header ul li:last-child {
 
 .container {
   width: 1200px;
-  border: 2px solid red;
   margin: 0 auto;
 }
 
@@ -40,7 +37,7 @@ header a {
   opacity: 0.6;
 }
 
-a:hover {
+header a:hover {
   color: #fff;
   opacity: 1;
   background-repeat: no-repeat;
@@ -53,12 +50,11 @@ header button {
   width: 150px;
   height: 45px;
   display: inline-block;
-  margin-left: 300px;
+  margin-left: 373px;
   border-radius: 10px;
   border: none;
   background-color: #FFF;
   cursor: pointer;
-
 }
 
 header button:hover {
