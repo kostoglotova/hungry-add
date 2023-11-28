@@ -1,0 +1,26 @@
+.food {
+    background-color: #1F98F0;
+}
+.food .container {
+    /* border: 2px solid red; */
+    max-width: 1200px;
+    margin:  0 auto;
+}
+.food h3,a {
+    display: inline-block;
+}
+.food h3 {
+    color: white;
+    padding: 100px 0px;
+    font-size: 30px;
+
+}
+.food a {
+    text-decoration: none;
+    color: #1F98F0;
+    background-color: white;
+    padding: 20px 49px;
+    border-radius: 10px;
+    margin-left: 500px;
+    font-size: 18px;   
+}
