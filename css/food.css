@@ -3,7 +3,7 @@
 }
 
 .food .container {
-    border: 2px solid red;
+    /* border: 2px solid red; */
     width: 1200px;
     margin:  0 auto;
 }
