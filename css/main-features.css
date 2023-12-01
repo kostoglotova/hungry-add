@@ -1,4 +1,4 @@
-.main {
+.main-features {
     background-color: #FFFFFF;
 }
 
@@ -7,7 +7,7 @@
     max-width: 1200px;
 }
 
-.main .left {
+.main-features .left {
     /* border: 2px solid pink; */
     display: inline-block;
     width: 561px;
@@ -15,7 +15,7 @@
     
 }
 
-.main .right {
+.main-features .right {
     /* border: 2px solid violet; */
     display: inline-block;
     width: 569px;
@@ -25,12 +25,12 @@
     
 }
 
-.main .screenshot {
+.main-features .screenshot {
     width: 820px;
     height: 1020px;
 }
 
-.main h3 {
+.main-features .right h3 {
     display: inline-block;
     color: #03101A;
     font-family: 'Lato', sans-serif;
@@ -38,13 +38,13 @@
     margin: 0px 300px 60px 15px;  
 }
 
-.main .table {
+.main-features .table {
     border-spacing: 20px;
     display: inline-block;
 }
 
 
-.main .td-name {
+.main-features .td-name {
     font-family: 'Lato', sans-serif;
     color: #03101A;
     font-size: 21px;
@@ -52,7 +52,7 @@
     word-wrap: break-word
 }
 
-.main .td-text {
+.main-features .td-text {
     font-family: 'Lato', sans-serif;
     color: rgba(3, 16, 26, 0.7);
     font-size: 16px;

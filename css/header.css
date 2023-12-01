@@ -1,5 +1,6 @@
 header {
   background-color: #1F98F0;
+  border: 2px solid red;
 }
 
 header p {
