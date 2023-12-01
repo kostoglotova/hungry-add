@@ -1,21 +1,23 @@
 .food {
     background-color: #1F98F0;
+    /* border: 2px solid red; */
 }
 
 .container {
-    /* border: 2px solid red; */
     width: 1200px;
     margin:  0 auto;
 }
+
 .food h3, a {
     display: inline-block;
 }
+
 .food h3 {
     color: white;
     padding: 100px 0px;
     font-size: 30px;
-
 }
+
 .food a {
     text-decoration: none;
     color: #1F98F0;
