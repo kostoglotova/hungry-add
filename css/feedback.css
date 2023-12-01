@@ -1,0 +1,58 @@
+.feedback .container {
+    margin: 0 auto;
+    width: 1200px;
+    height: 393px;
+    /* border: 2px solid red; */
+}
+.feedback  {
+    display: inline-block;
+    width: 100%;
+    margin-top: -160px;
+}
+.feedback .open {
+font-size: 38px;
+font-style: normal;
+font-weight: 700;
+line-height: normal;
+text-align: center;
+}
+.feedback img {
+    width: 73px;
+    height: 73px;
+    border-radius: 73px;
+}
+.feedback .name {
+    font-size: 21px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: normal;
+    margin: 20px;
+}
+.feedback .Description {
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 400;
+    /* line-height: 100px; */
+    color: #03101A;
+}
+
+.feedback .GrandBox1{
+    display: inline-block;
+    width: 260px;
+    text-align: center;
+    margin-top: 80px;
+}
+.feedback .GrandBox2{
+    display: inline-block;
+    width: 260px;
+    text-align: center;
+    margin-left: 200px;
+    margin-right: 200px;
+    margin-top: 80px;
+}
+.feedback .GrandBox3{
+    display: inline-block;
+    width: 260px;
+    text-align: center;
+    margin-top: 80px;
+}
