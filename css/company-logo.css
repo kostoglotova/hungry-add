@@ -1,0 +1,24 @@
+.container {
+    max-width: 1200px;
+    margin: 0 auto;
+    /* border: 2px solid red; */
+    box-sizing: border-box;
+}
+
+.company-logo p {
+    font-size: 21.46px;
+    color: #03101A;
+    margin-top: 63px;
+    margin-bottom: 45px;
+    white-space: nowrap;
+}
+
+.company-logo img {
+    display: inline;
+    margin-right: 127px;
+    
+}
+
+.company-logo img:last-child {
+    margin-right: 0;
+}
