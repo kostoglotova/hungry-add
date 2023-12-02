@@ -1,0 +1,86 @@
+.footer {
+    
+    background-color: #03101A;
+    
+
+}
+ .footer .container{
+    width: 1200px;
+    /* border: 1px solid red; */
+    margin: 110px auto 0px auto;
+}
+.footer .info, .support, .usefull_links, .news_letter {
+    display: inline-block;
+    /* border: 1px solid red; */
+    /* height: 201px; */
+    
+}
+.footer .hungry  {
+    color: white;
+  font-size: 30.95px;
+  font-weight: 700;
+  margin: 0 0 35px 0;
+    
+}
+.footer .info_text {
+    color: white;
+    opacity: 0.5;
+    display: inline-block;
+    width: 327px;
+    height: 75px;
+    font-size: 16px;
+   margin-top: 50px;
+    
+}
+.footer .h5_footer {
+    color: white;
+    margin: 0 0 35px 0;
+    font-size: 21px;
+    
+}
+.footer .List {
+    
+   
+    list-style: none;
+}
+.footer .a_footer {
+    color: white;
+    opacity: 0.5;
+    text-decoration: none;
+    
+   
+
+}
+.footer input[type="email"] {
+    padding: 10px;
+    margin-right: -10px;
+}
+.footer input[type="submit"]{
+    background-color:#1F98F0;
+    padding: 11px;
+    margin-left: -10px;
+    color: white;
+    margin: 0 0 32px 0;
+}
+.footer .info {
+    margin: 100px 64px 166px 0;
+    padding-top: 50px;
+}
+.footer .support {
+    margin: 112px 64px 100px 0;
+}
+.footer .usefull_links {
+margin: 112px 65px 100px 0;
+}
+.footer .news_letter {
+    margin: 112px 0 115px 0;
+}
+.footer .li_footer {
+    margin: 0 0 15px 0 ;
+}
+
+
+ .footer .help {
+    /* border: 1px solid greenyellow; */
+  
+}
