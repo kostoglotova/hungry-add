@@ -1,11 +1,13 @@
 .blog .conteiner {
     width: 1200px;
     /* border: 2px solid red; */
-    margin-top: 110px;
+    /* margin-top: 110; */
+    margin: 110px auto 0px auto;
 }
 
 .blog {
     background-color: white;
+    /* margin: 110px; */
 }
 
 .blog .blog-left{
